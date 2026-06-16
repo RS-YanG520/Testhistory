@@ -1,0 +1,93 @@
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.Python
+
+# Logs
+*.log
+
+# Build
+build/
+out/# ============================
+# IDE & Editors
+# ============================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ============================
+# Node.js
+# ============================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ============================
+# Python
+# ============================
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+.venv/
+venv/
+
+# ============================
+# Java
+# ============================
+*.class
+*.jar
+*.war
+target/
+
+# ============================
+# Build / Output
+# ============================
+build/
+dist/
+out/
+
+# ============================
+# Environment & Config
+# ============================
+.env
+.env.local
+.env.*.local
+
+# ============================
+# Logs
+# ============================
+*.log
+
+# ============================
+# OS
+# ============================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
